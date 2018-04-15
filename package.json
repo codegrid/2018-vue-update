@@ -2,7 +2,7 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
-    "deploy": "push-dir --dir=.vuepress/dist --branch=gh-ph-pages --cleanup"
+    "deploy": "push-dir --dir=.vuepress/dist --branch=gh-pages --cleanup"
   },
   "devDependencies": {
     "push-dir": "^0.4.1"
