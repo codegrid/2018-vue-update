@@ -1,0 +1,5 @@
+---
+title: ErrorCaptured Example
+---
+
+<ErrorCapturedExample/>
