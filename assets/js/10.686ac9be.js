@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{4:function(t,e,n){"use strict";n.r(e);var l={name:"ScopedSlotComponent",props:{items:Array}},o=n(0),r=Object(o.a)(l,function(){var t=this,e=t.$createElement;return(t._self._c||e)("div",[t._l(t.items,function(e){return t._t("default",null,{id:e.id,text:e.text})})],2)},[],!1,null,null,null);e.default=r.exports}}]);
